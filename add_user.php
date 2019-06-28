@@ -1,5 +1,7 @@
 <html>
 <head>
+<!--    Code to Verify that the details have been posted to
+db successfully.-->
     <title>Success</title>
     <link rel="stylesheet" href="bootstrap4/css/bootstrap.css">
     <link rel="stylesheet" href="css/custom.css">
